@@ -43,8 +43,9 @@
 
 项目 | 描述信息 | 环境 | 技术栈 | 文档地址
 --- | --- | --- | --- | ---
-docs | 在线文档，搜集记录！ | - | - | [Github](https://mankeung.github.io/docs/)
-mview | 多平台快速开发的UI框架 | uniapp | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) | [Github](https://mankeung.github.io/mview-ui/) [Gitee](https://mankeung.gitee.io/mview-ui/)
+docs | 在线文档，搜集记录！ | - | - | [查看文档](https://mankeung.github.io/docs/mk-data)
+mview | 多平台快速开发的UI框架 | uniapp | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) | [查看文档](https://mankeung.github.io/docs/mview-ui/)
+mk-vue | vite + vue + ts 基础搭建 | node | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) ![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) | [查看文档](https://mankeung.github.io/docs/mk-vue/)
 
 > 更多公开项目欢迎您的访问
 
