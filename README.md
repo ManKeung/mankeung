@@ -17,7 +17,7 @@
 
 </pre>
 
-<img width="100%" alt="game gif" src="https://mankeung.github.io/docs/assets/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="game gif" src="https://mankeung.github.io/docs/mk-data/assets/github-contribution-grid-snake.svg"/>
 
 ### 技能
 
