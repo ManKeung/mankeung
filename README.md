@@ -46,6 +46,7 @@
 docs | 在线文档，搜集记录！ | - | - | [查看文档](https://mankeung.github.io/docs/mk-data)
 mview | 多平台快速开发的UI框架 | uniapp | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) | [查看文档](https://mankeung.github.io/docs/mview-ui/)
 mk-vue | vite + vue + ts 基础搭建 | node | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) ![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) | [查看文档](https://mankeung.github.io/docs/mk-vue/)
+mk-react | vite + react + ts 基础搭建 | node | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) | [查看文档](https://mankeung.github.io/docs/mk-react/)
 
 > 更多公开项目欢迎您的访问
 
