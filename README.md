@@ -44,13 +44,13 @@
 
 ### 项目推荐
 
-项目 | 描述信息 | 环境 | 技术栈 | 文档地址
---- | --- | --- | --- | ---
-docs | 在线文档，搜集记录！ | - | - | [查看文档](https://mankeung.github.io/docs/mk-data)
-mview | 多平台快速开发的UI框架 | uniapp | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) | [查看文档](https://mankeung.github.io/docs/mview-ui/)
-mk-vue | vite + vue + ts 基础搭建 | node | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) ![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) | [查看文档](https://mankeung.github.io/docs/mk-vue/)
-mk-react | vite + react + ts 基础搭建 | node | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite) | [查看文档](https://mankeung.github.io/docs/mk-react/)
-mk-koa | Koa + ts + ...基础模板 | node | ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) ![Koa.js](https://img.shields.io/badge/-Koa-333333?style=flat&logo=koa) ![rollup](https://img.shields.io/badge/-rollup.js-333333?style=flat&logo=rollup.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![pm2](https://img.shields.io/badge/-pm2-333333?style=flat&logo=pm2) ![ts-node](https://img.shields.io/badge/-ts_node-333333?style=flat&logo=ts-node) | [查看文档](https://mankeung.github.io/docs/mk-koa/)
+项目 | 描述信息 | 主要技术栈 | 文档地址
+--- | --- | --- | ---
+docs | 在线文档，搜集记录！ | - | [查看文档](https://mankeung.github.io/docs/mk-data)
+mview | 多平台快速开发的UI框架 | ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  | [查看文档](https://mankeung.github.io/docs/mview-ui/)
+mk-vue | vite + vue + ts 基础搭建 | ![Vue3](https://img.shields.io/badge/-Vue3-333333?style=flat&logo=vue.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  | [查看文档](https://mankeung.github.io/docs/mk-vue/)
+mk-react | vite + react + ts 基础搭建 | ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) | [查看文档](https://mankeung.github.io/docs/mk-react/)
+mk-koa | Koa + ts 基础模板 | ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) | [查看文档](https://mankeung.github.io/docs/mk-koa/)
 
 > 更多公开项目欢迎您的访问
 
